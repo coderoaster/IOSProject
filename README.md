@@ -1,5 +1,7 @@
 # IOSProject
+
 ## 맥주 추천 프로젝트
+![맥플릭스!](https://user-images.githubusercontent.com/66759107/93506315-0d5ea980-f957-11ea-89f5-df301a220cec.png)
 ### 개발환경
 ![개발환경](https://user-images.githubusercontent.com/66759107/93505709-2e72ca80-f956-11ea-90d3-7de6b596f559.png)
 ### ERD
